@@ -1,6 +1,7 @@
 # Terraform
 
-![Terraform](./assets/terraform.png)
+![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+
 
 Terraform is an open-source tool for **Infrastructure as Code (IaC)** that enables you to provision and manage infrastructure across providers like **AWS, Azure, and GCP**.
 
