@@ -1,5 +1,8 @@
 # Terraform
-![image](https://github.com/user-attachments/assets/76b7dbaf-afc3-42ef-83fd-53e21c67d866)
+
+![Terraform](https://github.com/user-attachments/assets/76b7dbaf-afc3-42ef-83fd-53e21c67d866)  
+
+Terraform is an open-source tool for **Infrastructure as Code (IaC)** that enables you to provision and manage infrastructure across providers like **AWS, Azure, and GCP**.
 
 
 # Install Terraform
